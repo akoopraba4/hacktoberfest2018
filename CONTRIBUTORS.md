@@ -1790,3 +1790,11 @@ Place: Lithuania
 About: Student
 Programming Language: C++, Java, C#, JavaScript;
 Email: miautawn@gmail.com
+
+
+Name: [Akshaya](https://github.com/akoopraba4)
+Place:India
+About:Btech student [ECE]
+Programming Language:C++;
+Email:akoopraba4@gmail.com
+
